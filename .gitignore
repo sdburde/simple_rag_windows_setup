@@ -1,0 +1,23 @@
+# Python
+langchain_venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# ChromaDB
+chroma_db/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Ollama
+*.bin
+*.gguf

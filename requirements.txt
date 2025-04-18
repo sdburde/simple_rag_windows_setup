@@ -1,0 +1,11 @@
+ipykernel
+langchain
+langchain-community
+langchain-core
+python-dotenv
+langchain_community
+langchain_groq
+bs4
+pypdf
+chromadb
+langchain_ollama
